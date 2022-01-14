@@ -2,7 +2,6 @@
 
 I'm a student of Computer Engineering Passionate about technologie.  I have experience with projects using Java and databases
 
-<br>
 
 - 💻 I’m currently working on Project Analyst
 
