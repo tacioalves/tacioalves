@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-### I'm a student of Computer Engineering Passionate about technologie.  I have experience with projects using Java and databases
+I'm a student of Computer Engineering Passionate about technologie.  I have experience with projects using Java and databases
 
 <br>
 
