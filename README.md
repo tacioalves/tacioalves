@@ -3,7 +3,7 @@
 I'm a student of Computer Engineering Passionate about technologie.  I have experience with projects using Java and databases
 
 
-- 💻 I’m currently working on Project Analyst
+- 💻 I’m currently working on Analyst Developer
 
 - 🌱 I have experience with Java and SQL
 
