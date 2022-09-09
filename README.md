@@ -5,7 +5,7 @@ I'm a student of Computer Engineering Passionate about technologie.  I have expe
 
 - 💻 I’m currently working on Analyst Developer
 
-- 🌱 I have experience with Java and SQL
+- 🌱 I have experience with Java, Python and SQL
 
 
 
