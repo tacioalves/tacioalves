@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm a student of Computer Engineering Passionate about technologie.  I have experience with projects using Java, Python and databases
-
+I have a degree in Computer Engineering and am passionate about technology.  I have experience with projects using Java, Python and databases
 
 - 💻 I’m currently working on Analyst Developer
 
-- 🌱 I have experience with Java, Python and SQL
+- 🌱 I have experience with Java, Python and SQL/Oracle
 
 
 
